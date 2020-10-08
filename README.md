@@ -9,4 +9,6 @@ When one gets a new Mac, what must/should one install?
   - MS Office and/or Keynotes, etc.
 - Development
   - VS Code
-  
+- Cloud
+  - OneDrive
+  - CrashPlan

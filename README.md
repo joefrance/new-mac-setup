@@ -2,7 +2,9 @@
 When one gets a new Mac, what must/should one install?
 
 - Google Chrome
-- Activate Messages WITH phone support
+- Communications
+  - Activate Messages WITH phone support
+  - Slack
 - General
   - MS Office and/or Keynotes, etc.
 - Development

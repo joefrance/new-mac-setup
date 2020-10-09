@@ -13,6 +13,7 @@ When one gets a new Mac, what must/should one install?
   - git
   - home brew
   - dotnet SDK 3.1
+  - Azure Data Studio
 - Cloud
   - OneDrive
   - CrashPlan

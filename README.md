@@ -12,6 +12,7 @@ When one gets a new Mac, what must/should one install?
   - Docker Desktop
   - git
   - home brew
+  - dotnet SDK 3.1
 - Cloud
   - OneDrive
   - CrashPlan

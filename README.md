@@ -9,6 +9,9 @@ When one gets a new Mac, what must/should one install?
   - MS Office and/or Keynotes, etc.
 - Development
   - VS Code
+  - Docker Desktop
+  - git
+  - home brew
 - Cloud
   - OneDrive
   - CrashPlan

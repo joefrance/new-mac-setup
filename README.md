@@ -1,13 +1,14 @@
 # new-mac-setup
 When one gets a new Mac, what must/should one install?
 
-- Google Chrome
+- General
+  - Kindle
+  - MS Office and/or Keynotes, etc.
+  - Google Chrome
 - Communications
   - Activate Messages WITH phone support
   - Slack
   -  Microsoft Teams
-- General
-  - MS Office and/or Keynotes, etc.
 - Development
   - VS Code
   - Docker Desktop

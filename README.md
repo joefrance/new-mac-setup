@@ -8,6 +8,16 @@ When one gets a new Mac, what must/should one install?
   - [Microsoft Remote Destop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
 - Communications
   - Activate Messages WITH phone support
+    - On Mac
+      - In the `Messages` app go to 
+        - `Preferences -> iMessages`
+          - Check `Enable this account`
+          - Check the phone number(s) to use for messaging
+          - If multiple numbers then choose the one for `Start new conversations from:`
+    - On your iPhone
+      - Go to `Settings` app
+      - `Messages -> Text Message Forwarding`
+        - Turn on forwarding for each device (Find the Mac you're using)    
   - Slack
   -  Microsoft Teams
 - Development

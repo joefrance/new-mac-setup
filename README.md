@@ -27,6 +27,7 @@ When one gets a new Mac, what must/should one install?
   - home brew
   - dotnet SDK 3.1
   - Azure Data Studio
+  - [npm](https://treehouse.github.io/installation-guides/mac/node-mac.html)
 - Cloud
   - OneDrive
   - CrashPlan

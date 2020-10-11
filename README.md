@@ -22,6 +22,7 @@ When one gets a new Mac, what must/should one install?
   -  Microsoft Teams
 - Development
   - VS Code
+    - [.NET Core](https://dotnet.microsoft.com/download/dotnet-core)
   - Docker Desktop
   - git
   - home brew

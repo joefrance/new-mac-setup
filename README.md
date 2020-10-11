@@ -2,9 +2,10 @@
 When one gets a new Mac, what must/should one install?
 
 - General
-  - Kindle
+  - [Kindle](https://apps.apple.com/us/app/kindle/id405399194?mt=12)
   - MS Office and/or Keynotes, etc.
   - Google Chrome
+  - [Microsoft Remote Destop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
 - Communications
   - Activate Messages WITH phone support
   - Slack

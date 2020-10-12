@@ -22,6 +22,13 @@ When one gets a new Mac, what must/should one install?
   -  Microsoft Teams
 - Development
   - VS Code
+    - Add VS Code to PATH so you can run `code .` from a folder and load it into VS Code
+      - https://github.com/microsoft/vscode/issues/48124
+      - TL;DR
+        - `cat << EOF >> ~/.bash_profile`
+        - `# Add Visual Studio Code (code)`
+        - `export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"`
+        - `EOF`
     - [.NET Core](https://dotnet.microsoft.com/download/dotnet-core)
   - Docker Desktop
   - git

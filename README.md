@@ -22,6 +22,7 @@ When one gets a new Mac, what must/should one install?
   -  Microsoft Teams
 - Development
   - VS Code
+    - VS Code Printing Free (adds print icon to top-right menu)
     - Add VS Code to PATH so you can run `code .` from a folder and load it into VS Code
       - https://github.com/microsoft/vscode/issues/48124
       - TL;DR

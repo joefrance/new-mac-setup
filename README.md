@@ -25,7 +25,8 @@ When one gets a new Mac, what must/should one install?
     - Font ligatures
       - `brew tap homebrew/cask-fonts`
       - `brew cask install font-fira-code`
-      - File -> Preferences -> User settings`
+      - `Code -> Preferences -> Settings`
+      - `Edit Settings`
         - `{` 
         - `"editor.fontFamily": "Fira Code",` 
         - `"editor.fontLigatures": true`
